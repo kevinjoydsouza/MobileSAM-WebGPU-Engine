@@ -26,12 +26,13 @@ An end-to-end, privacy-focused WebAI engine running real-time object segmentatio
     ├── mobile_sam_decoder.onnx
     ├── yolov8n.onnx
     └── mobilenet.onnx
-Quickstart Guide
+## Quickstart Guide
 1. Environment Setup
 Clone the repository and install the export dependencies:
 
 Bash
-git clone [https://github.com/your-username/webgpu-mobilesam-detection.git](https://github.com/your-username/webgpu-mobilesam-detection.git)
+git clone [https://github.com/your-username/webgpu-mobilesam-detection.git](https://github.com/your-username/webgpu-mobilesam-detection.git)]
+git clone 
 cd webgpu-mobilesam-detection
 
 python -m venv .venv
