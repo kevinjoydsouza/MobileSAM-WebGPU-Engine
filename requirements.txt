@@ -1,0 +1,7 @@
+torch>=2.2.0
+torchvision>=0.17.0
+onnx>=1.15.0
+onnxruntime>=1.18.0
+timm>=0.9.12
+ultralytics>=8.1.0
+git+https://github.com/ChaoningZhang/MobileSAM.git
